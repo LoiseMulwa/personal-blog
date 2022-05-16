@@ -3,7 +3,7 @@
 ####  My personal blog web application.
 
 ## Live Site link
-You can view the live application by following this [link]().
+You can view the live application by following this []().
 
 ####  User view
 * User can view the blog posts on the site
@@ -21,7 +21,7 @@ You can view the live application by following this [link]().
 
 
 ## Author
-[Alphine kirimi](https://github.alphine3900), 13/02/2022.
+[Loise Mulwa](https://github.com/LoiseMulwa/personal-blog.git).
 
 ## Description
 This is a personal blogging website where you can create and share your opinions and other users can read and comment on them. with a feature that displays random quotes to inspire your users.
@@ -45,7 +45,7 @@ This is a personal blogging website where you can create and share your opinions
 ## Installation and Set-up
 To view the app, open the live site link provided below on the README.
 Here is a run through of how to set up the application:
-* **Step 1** : Clone this repository using **`git clone https://github.com/alphine3900/Personal-Blog`**, or downloading a ZIP file of the code.
+* **Step 1** : Clone this repository using **`https://github.com/LoiseMulwa/personal-blog.git`**, or downloading a ZIP file of the code.
 * **Step 2** : The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
 * **Step 3** : Go to the project root directory and install the virtualenv library using pip an afterwards create a virtual environment. Run the following commands respectively:
     * **`pip install virtualenv`**
@@ -63,4 +63,4 @@ Here is a run through of how to set up the application:
 
 
 ## License
-#### Copyright (c) [2021] [Alphine mutwiri kirimi]
+#### Copyright (c) [2022] [Loise Mulwa]
