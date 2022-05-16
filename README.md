@@ -63,4 +63,5 @@ Here is a run through of how to set up the application:
 
 
 ## License
-#### Copyright (c) [2022] [Loise Mulwa]
+#### Copyright (c) [2022] [Loise Mulwa] 
+### Click to view License [Click to view license](LICENSE)
